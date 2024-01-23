@@ -1,4 +1,6 @@
-### Test
+### I'm a college student who likes video games and computers, I do some very basic code as a hobby project but I try to improve as much as I can.
+
+Currently learning web development
 <!--
 **UltraAziz/UltraAziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
